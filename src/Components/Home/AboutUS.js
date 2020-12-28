@@ -1,0 +1,20 @@
+import about_us_img  from '../../images/img1.jpg'
+const AboutUs = () => {
+    return (
+        <section className="py-4 py-lg-6" id="about-us">
+        <div className="container">
+          <div className="row align-items-center">
+            <div className="col-md-6">
+              <h2 className="mb-4 font-weight-bold text-transform-none">Fostering creativity and innovationeam </h2>
+              <p className="my-3">Xebia shares a special bond with its people. We cherish this bond with both our current as well as former employees.  The alumni community is being created with an intent to bring together everyone who has contributed to the success of Xebia over the years.</p>
+            </div>
+            <div className="col-md-6 px-lg-4">
+              <img className="rounded" width="100%" src={about_us_img} alt="" />
+            </div>
+          </div>
+        </div>
+      </section>
+    )
+}
+
+export default AboutUs;
