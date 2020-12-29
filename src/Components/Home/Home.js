@@ -20,7 +20,7 @@ const Home = () => {
             <AboutUs />
             <Joinus />
             <Network />
-            <Alumnislider />
+            {/* <Alumnislider /> */}
             <Alumni />
             <Events />
             <Subfooter />

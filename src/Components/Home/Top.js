@@ -2,8 +2,8 @@ import image_header from '../../images/header.jpg';
 const Top = () => {
     return(
         <section className="py-0 text-center" id="top">
-        <div className="bg-holder overlay overlay-3 overlay-z-index-1" style={{backgroundImage: `url(${image_header})`}} />
-        <div className="header-overlay" />
+        <div className="bg-holder overlay overlay-3 overlay-z-index-1" style={{backgroundImage: `url(${image_header})`}} ></div>
+        <div className="header-overlay"></div>
         <div className="container">
           <div className="d-flex flex-center vh-100">
             <div className="header-text">
