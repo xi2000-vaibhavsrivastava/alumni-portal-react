@@ -20,7 +20,7 @@ const Subfooter = () => {
                   <h5 className="text-white mb-3">Menu Heading</h5>
                   <ul className="list-unstyled mb-0">
                     <li className="mb-2"><a className="text-700 hover-color-white" target="_blank" href="https://xebia.com/blog/"><span className="fas fa-caret-right mr-2" />Xebia Blog</a></li>
-                    <li className="mb-2"><a className="text-700 hover-color-white" target="_blank" href="#"><span className="fas fa-caret-right mr-2" />Podcast Agile</a></li>
+                    <li className="mb-2"><a className="text-700 hover-color-white" target="_blank" href="https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8yNjc0ZmVjMC9wb2RjYXN0L3Jzcw=="><span className="fas fa-caret-right mr-2" />Podcast Agile</a></li>
                     <li className="mb-2"><a className="text-700 hover-color-white" target="_blank" href="#"><span className="fas fa-caret-right mr-2" />Podcast XTAC</a></li>
                     {/* <li className="mb-2"><a className="text-700 hover-color-white" target="_blank" href="#"><span className="fas fa-caret-right mr-2" />Item Link 4</a></li> */}
                   </ul>

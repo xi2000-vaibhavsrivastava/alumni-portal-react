@@ -1,7 +1,6 @@
 
 import logo from '../../logo.svg';
 import Header from '../Header/Header';
-import { Col, Container, Image, Row } from 'react-bootstrap';
 import AboutUs from './AboutUS';
 import Joinus from './Joinus';
 import Network from './Network';

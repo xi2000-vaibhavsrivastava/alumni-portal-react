@@ -6,7 +6,7 @@ import image5  from '../../images/gallery/xebia5.webp';
 import image6  from '../../images/gallery/xebia6.jpg';
 import image7  from '../../images/gallery/xebia7.jpg';
 import image8  from '../../images/gallery/xebia8.jpg';
-import image9  from '../../images/gallery/xebia9.jpg';
+import image9  from '../../images/gallery/xebia9.webp';
 const Network = () => {
     return(
         <section className="py-5">

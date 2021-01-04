@@ -6,9 +6,13 @@ const Joinus = () => {
         <div className="container">
           <div className="row">
             <div className="col-md-6 px-4">
-              <HubspotForm
+              {/* <HubspotForm
                  portalId='9104679'
                  formId='393ed9b1-30c6-4a4f-b028-20d36d1eb541'
+              /> */}
+              <HubspotForm
+                 portalId='697348'
+                 formId="87c93cbd-39cc-4968-ad39-d4ad8528f261"
               />
             </div>
             <div className="col-md-6 px-4 px-md-0 pt-4 pt-md-0">
