@@ -19,20 +19,20 @@ const Subfooter = () => {
                 <div className="col-6 col-md-4 pl-lg-4 mb-4 mb-lg-0">
                   <h5 className="text-white mb-3">Menu Heading</h5>
                   <ul className="list-unstyled mb-0">
-                    <li className="mb-2"><a className="text-700 hover-color-white" href="#"><span className="fas fa-caret-right mr-2" />Item Link 1</a></li>
-                    <li className="mb-2"><a className="text-700 hover-color-white" href="#"><span className="fas fa-caret-right mr-2" />Item Link 2</a></li>
-                    <li className="mb-2"><a className="text-700 hover-color-white" href="#"><span className="fas fa-caret-right mr-2" />Item Link 3</a></li>
-                    <li className="mb-2"><a className="text-700 hover-color-white" href="#"><span className="fas fa-caret-right mr-2" />Item Link 4</a></li>
+                    <li className="mb-2"><a className="text-700 hover-color-white" target="_blank" href="https://xebia.com/blog/"><span className="fas fa-caret-right mr-2" />Xebia Blog</a></li>
+                    <li className="mb-2"><a className="text-700 hover-color-white" target="_blank" href="#"><span className="fas fa-caret-right mr-2" />Podcast Agile</a></li>
+                    <li className="mb-2"><a className="text-700 hover-color-white" target="_blank" href="#"><span className="fas fa-caret-right mr-2" />Podcast XTAC</a></li>
+                    {/* <li className="mb-2"><a className="text-700 hover-color-white" target="_blank" href="#"><span className="fas fa-caret-right mr-2" />Item Link 4</a></li> */}
                   </ul>
                 </div>
                 <div className="col-6 col-md-4 pl-4 mb-4 mb-lg-0">
-                  <h5 className="text-white mb-3">Menu Heading</h5>
+                  {/* <h5 className="text-white mb-3">Menu Heading</h5>
                   <ul className="list-unstyled mb-0">
                     <li className="mb-2"><a className="text-700 hover-color-white" href="#"><span className="fas fa-caret-right mr-2" />Item Link 1</a></li>
                     <li className="mb-2"><a className="text-700 hover-color-white" href="#"><span className="fas fa-caret-right mr-2" />Item Link 2</a></li>
                     <li className="mb-2"><a className="text-700 hover-color-white" href="#"><span className="fas fa-caret-right mr-2" />Item Link 3</a></li>
                     <li className="mb-2"><a className="text-700 hover-color-white" href="#"><span className="fas fa-caret-right mr-2" />Item Link 4</a></li>
-                  </ul>
+                  </ul> */}
                 </div>
                 <div className="col-md-4 pl-md-4">
                   <h5 className="text-white mb-3">CORPORATE OFFICE</h5>

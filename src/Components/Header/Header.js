@@ -8,18 +8,18 @@ const Header = () => {
             <button className="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span className="navbar-toggler-icon" /></button>
             <div className="collapse navbar-collapse pb-3 pb-md-0" id="navbarSupportedContent">
               <ul className="navbar-nav ml-auto">
-                <li className="nav-item py-3 py-md-0 dropdown dropdown-on-hover"><a className="nav-link dropdown-toggle" id="navbarDropdownMenuLink1" href="#" aria-haspopup="true" aria-expanded="false"> <span className="nav-link-text">Menu</span></a>
+                {/* <li className="nav-item py-3 py-md-0 dropdown dropdown-on-hover"><a className="nav-link dropdown-toggle" id="navbarDropdownMenuLink1" href="#" aria-haspopup="true" aria-expanded="false"> <span className="nav-link-text">Menu</span></a>
                   <div className="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownMenuLink1">
                     <a className="dropdown-item" href="#">Item 1</a>
                     <a className="dropdown-item" href="#">Item 2</a>
                     <a className="dropdown-item" href="#">Item 3</a>
                   </div>
-                </li>
+                </li> */}
                 <li className="nav-item"><a className="nav-link pl-4" href="#">Menu Item 1</a></li>
                 <li className="nav-item"><a className="nav-link pl-3" href="#">Menu Item 2</a></li>
-                <li className="nav-item"><a className="nav-link pl-3" href="#">Menu Item 3</a></li>
+                {/* <li className="nav-item"><a className="nav-link pl-3" href="#">Menu Item 3</a></li> */}
                 <li className="nav-item py-3 py-md-0 d-flex flex-column justify-content-center">
-                  <a className="ml-0 ml-md-3 btn btn-sm btn-outline-light hvr-sweep-top" href="#">Join Us</a>
+                  <a className="ml-0 ml-md-3 btn btn-sm btn-outline-light hvr-sweep-top" href="#join-us">Join Us</a>
                 </li>
               </ul>
             </div>

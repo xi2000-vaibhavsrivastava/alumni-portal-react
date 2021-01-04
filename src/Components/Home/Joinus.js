@@ -1,3 +1,4 @@
+import HubspotForm from 'react-hubspot-form'
 const Joinus = () => {
     return(
         <section className="py-4 pt-lg-5 pb-6 bg-light" id="join-us">
@@ -5,6 +6,10 @@ const Joinus = () => {
         <div className="container">
           <div className="row">
             <div className="col-md-6 px-4">
+              <HubspotForm
+                 portalId='9104679'
+                 formId='393ed9b1-30c6-4a4f-b028-20d36d1eb541'
+              />
             </div>
             <div className="col-md-6 px-4 px-md-0 pt-4 pt-md-0">
               <h2 className="mb-4 font-weight-bold text-transform-none">Once a Xebian, Always a Xebian</h2>
