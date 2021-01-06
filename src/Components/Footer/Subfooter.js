@@ -20,8 +20,8 @@ const Subfooter = () => {
                   <h5 className="text-white mb-3">Menu Heading</h5>
                   <ul className="list-unstyled mb-0">
                     <li className="mb-2"><a className="text-700 hover-color-white" target="_blank" href="https://xebia.com/blog/"><span className="fas fa-caret-right mr-2" />Xebia Blog</a></li>
-                    <li className="mb-2"><a className="text-700 hover-color-white" target="_blank" href="https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8yNjc0ZmVjMC9wb2RjYXN0L3Jzcw=="><span className="fas fa-caret-right mr-2" />Podcast Agile</a></li>
-                    <li className="mb-2"><a className="text-700 hover-color-white" target="_blank" href="#"><span className="fas fa-caret-right mr-2" />Podcast XTAC</a></li>
+                    <li className="mb-2"><a className="text-700 hover-color-white" target="_blank" href="https://open.spotify.com/show/4Wm1KtUlklJOCyieB7f2YP"><span className="fas fa-caret-right mr-2" />Agile-Podcast</a></li>
+                    <li className="mb-2"><a className="text-700 hover-color-white" target="_blank" href="https://open.spotify.com/show/1gLRQFlJQqsrmrHEUTKqKj"><span className="fas fa-caret-right mr-2" />XTAC-Podcast</a></li>
                     {/* <li className="mb-2"><a className="text-700 hover-color-white" target="_blank" href="#"><span className="fas fa-caret-right mr-2" />Item Link 4</a></li> */}
                   </ul>
                 </div>
@@ -37,10 +37,10 @@ const Subfooter = () => {
                 <div className="col-md-4 pl-md-4">
                   <h5 className="text-white mb-3">CORPORATE OFFICE</h5>
                   <ul className="list-unstyled mb-0">
-                    <li className="mb-2"><span className="fas fa-map-marker-alt mr-2" /><a className="text-700 hover-color-white" href="https://www.google.com/maps/place/1+Baltimore+Pl+NW+G100,+Atlanta,+GA+30308,+USA/@33.7686391,-84.3906015,17z/data=!3m1!4b1!4m18!1m12!4m11!1m3!2m2!1d-84.3883763!2d33.7686134!1m6!1m2!1s0x88f5047b20ba543f:0x2fa7599103c93fd2!2s1+Baltimore+Pl+NW+G100,+Atlanta,+GA+30308,+USA!2m2!1d-84.3884128!2d33.7686347!3m4!1s0x88f5047b20ba543f:0x2fa7599103c93fd2!8m2!3d33.7686347!4d-84.3884128">1 Baltimore Place NW, Suite G100, Atlanta, GA - 30308</a>
+                    <li className="mb-2"><span className="fas fa-map-marker-alt mr-2" /><a className="text-700 hover-color-white" href="https://www.google.com/maps/place/1+Baltimore+Pl+NW+G100,+Atlanta,+GA+30308,+USA/@33.7686391,-84.3906015,17z/data=!3m1!4b1!4m18!1m12!4m11!1m3!2m2!1d-84.3883763!2d33.7686134!1m6!1m2!1s0x88f5047b20ba543f:0x2fa7599103c93fd2!2s1+Baltimore+Pl+NW+G100,+Atlanta,+GA+30308,+USA!2m2!1d-84.3884128!2d33.7686347!3m4!1s0x88f5047b20ba543f:0x2fa7599103c93fd2!8m2!3d33.7686347!4d-84.3884128">4th Floor, Capital Cyberscape, Golf Course Ext Rd, Sector 59, Gurugram, Haryana 122005</a>
                     </li>
                     <li className="mb-2"><span className="fas fa-envelope mr-2" /><a className="text-700 hover-color-white" href="mailto:info@xebia.com">info@xebia.com</a></li>
-                    <li className="mb-2"><span className="fas fa-phone mr-2" /><a className="text-700 hover-color-white" href="tel:+1 (404) 343-4832">+1 (404) 343-4832</a></li>
+                    <li className="mb-2"><span className="fas fa-phone mr-2" /><a className="text-700 hover-color-white" href="tel:+1 (404) 343-4832">+91 (124) 470 0200</a></li>
                     <li className="my-3"><a className="btn btn-sm btn-light hvr-sweep-top" href="./contact-us.html">Contact Us</a></li>
                   </ul>
                 </div>

@@ -15,8 +15,8 @@ const Header = () => {
                     <a className="dropdown-item" href="#">Item 3</a>
                   </div>
                 </li> */}
-                <li className="nav-item"><a className="nav-link pl-4" href="#">Menu Item 1</a></li>
-                <li className="nav-item"><a className="nav-link pl-3" href="#">Menu Item 2</a></li>
+                {/* <li className="nav-item"><a className="nav-link pl-4" href="#">Menu Item 1</a></li>
+                <li className="nav-item"><a className="nav-link pl-3" href="#">Menu Item 2</a></li> */}
                 {/* <li className="nav-item"><a className="nav-link pl-3" href="#">Menu Item 3</a></li> */}
                 <li className="nav-item py-3 py-md-0 d-flex flex-column justify-content-center">
                   <a className="ml-0 ml-md-3 btn btn-sm btn-outline-light hvr-sweep-top" href="#join-us">Join Us</a>

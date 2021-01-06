@@ -26,6 +26,33 @@
   transition: background-color 0.5s ease-in-out;
 }
 
+.cards {
+  height: 500px;
+  max-height: 500px;
+  border-radius: 20px;
+  width: 100%;
+}
+
+.news-item {
+  padding: 10px 30px;
+  background-color: #fff;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.latest-news-heading {
+  font-weight: 600;
+  letter-spacing: 0px;
+  color: #333;
+  max-height: 88px;
+  overflow: hidden;
+  font-size: 20px;
+  line-height: 22px;
+  margin-bottom: 10px;
+  display: block;
+  margin-bottom: 20px;
+}
+
 .card:hover {
   background-color: #e2f4fe !important;
 }
@@ -14330,13 +14357,13 @@ label {
   opacity: 1 !important;
 }
 
-.owl-theme .owl-nav .owl-prev {
+/* .owl-theme .owl-nav .owl-prev {
   left: 3.75rem;
 }
 
 .owl-theme .owl-nav .owl-next {
   right: 3.75rem;
-}
+} */
 
 .owl-theme:hover .owl-nav [class*=owl-], .owl-theme:focus .owl-nav [class*=owl-] {
   opacity: 0.5;
@@ -15563,7 +15590,7 @@ h6, .h6 {
   top: 0;
   left: 0;
   background-size: cover;
-  background-position: 0% 0%;
+  background-position: 0% -11%;
   overflow: hidden;
   will-change: transform, opacity, filter;
   -webkit-backface-visibility: hidden;
