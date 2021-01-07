@@ -12,7 +12,7 @@ const Joinus = () => {
               /> */}
               <HubspotForm
                  portalId='697348'
-                 formId="87c93cbd-39cc-4968-ad39-d4ad8528f261"
+                 formId="71a9ecba-39c4-4b59-9bba-9b55da1ffe8f"
               />
             </div>
             <div className="col-md-6 px-4 px-md-0 pt-4 pt-md-0">
