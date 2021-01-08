@@ -12,7 +12,7 @@ export const alumiList = [
         company: "ABC",
         name: "Deepak Bansal",
         linkedin: "https://www.linkedin.com/in/deepubansal/",
-        image: require('../images/alumni/deepak_bansal.jpg'),
+        image: require('../images/alumni/deepak_banal.png'),
         designation: "Software Engineer, Google",
     },
     {
@@ -26,7 +26,7 @@ export const alumiList = [
         company: "ABC",
         name: "Tanmay Mehra",
         linkedin: "https://www.linkedin.com/in/tanmaymehra/",
-        image: require('../images/alumni/tanmay_mehra.jpg'),
+        image: require('../images/alumni/tanmay_mehra.png'),
         designation: "Staff Software Engineer, Walmart Labs",
     },
     {

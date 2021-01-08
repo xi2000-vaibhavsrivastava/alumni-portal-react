@@ -13,7 +13,9 @@ const Alumni = () => {
               alumiList.map((list,key) => {
                 return(
                     <div className="col-md-6 col-lg-4 h-100 mb-4">
-                    <img className="img-fluid rounded-top" src={list.image.default} alt="" />
+                    <div className="alumni-image">
+                      <img className="img-fluid rounded-top" src={list.image.default} alt="" />
+                    </div>
                     <div className="p-3 rounded-bottom text-center">
                       <h5 className="mb-1 text-base text-transform-none font-weight-medium">{list.name}</h5>
                       <p className="mb-2 font-weight-medium">{list.designation}</p>

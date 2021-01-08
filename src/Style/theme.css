@@ -27,13 +27,19 @@
 }
 
 .cards {
-  height: 500px;
-  max-height: 500px;
+  height: 400px;
+  max-height: 400px;
   border-radius: 20px;
   width: 100%;
 }
 
+.cards img {
+  height: 100%;
+}
+
 .news-item {
+  height: 400px;
+  max-height: 400px;
   padding: 10px 30px;
   background-color: #fff;
   border: 1px solid #ccc;
@@ -539,6 +545,11 @@ mark,
   height: auto
 }
 
+.alumni-image {
+  width: auto;
+  height: auto;
+}
+
 #events .img-fluid  {
   max-width: 100%;
   width: 100%;
@@ -546,8 +557,9 @@ mark,
 }
 
 #alumni .img-fluid {
+  margin: auto;
+  display: block;
   height: calc(100vh - 20vw);
-  width:  calc(100% - 20px);
 }
 
 .img-thumbnail {
