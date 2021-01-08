@@ -13,7 +13,7 @@ export const alumiList = [
         name: "Deepak Bansal",
         linkedin: "https://www.linkedin.com/in/deepubansal/",
         image: require('../images/alumni/deepak_banal.png'),
-        designation: "Software Engineer, Google",
+        designation: "Software Engineer, Google", 
     },
     {
         company: "ABC",
@@ -57,10 +57,6 @@ export const eventList = [
 ];
 
 export const glimpsesImage = [
-    // {
-    //     image: require('../images/gallery/xebia1.jpg'),
-    //     name: 'xebia1',
-    // },
     {
         image: require('../images/gallery/xebia2.webp'),
         name: 'xebia1',
