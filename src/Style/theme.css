@@ -562,6 +562,10 @@ mark,
   height: calc(100vh - 20vw);
 }
 
+#events a {
+  text-decoration: none;
+}
+
 .img-thumbnail {
   padding: 0.25rem;
   background-color: #fff;
