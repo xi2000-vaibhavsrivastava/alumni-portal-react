@@ -45,14 +45,34 @@ export const alumiList = [
 
 export const eventList = [
     {
+        name: "Look Back November",
+        image: require('../images/events/lookback_november.png'),
+        description: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+        link: "https://www.youtube.com/watch?v=lUREng1wKCs"
+    },
+    {
+        name: "She Talks Tech",
+        image: require('../images/events/she-talks-tech.png'),        
+        description: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+        link: "https://www.youtube.com/watch?v=a74RqR_PK-o",
+    },
+    {
+        name: "Christmas Celebration at Xebia",
+        image: require('../images/events/christmas.png'),
+        description: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+        link: "https://www.youtube.com/watch?v=TLMgnfMCM8I",
+    },
+    {
         name: "Xebia Knowledge Exchange",
         image: require('../images/events/xke.jpg'),
         description: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+        link: "",
     },
     {
         name: "Leadership Connect",
         image: require('../images/events/leadership-connect.jpg'),
         description: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+        link: "",
     },
 ];
 
