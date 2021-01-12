@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/alumni-portal-react/static/css/main.fc22ce90.chunk.css",
-    "main.js": "/alumni-portal-react/static/js/main.aaa9aa28.chunk.js",
-    "main.js.map": "/alumni-portal-react/static/js/main.aaa9aa28.chunk.js.map",
+    "main.css": "/alumni-portal-react/static/css/main.7907298b.chunk.css",
+    "main.js": "/alumni-portal-react/static/js/main.71666313.chunk.js",
+    "main.js.map": "/alumni-portal-react/static/js/main.71666313.chunk.js.map",
     "runtime-main.js": "/alumni-portal-react/static/js/runtime-main.79f8e66a.js",
     "runtime-main.js.map": "/alumni-portal-react/static/js/runtime-main.79f8e66a.js.map",
     "static/css/2.a44c59e0.chunk.css": "/alumni-portal-react/static/css/2.a44c59e0.chunk.css",
-    "static/js/2.5704ecd6.chunk.js": "/alumni-portal-react/static/js/2.5704ecd6.chunk.js",
-    "static/js/2.5704ecd6.chunk.js.map": "/alumni-portal-react/static/js/2.5704ecd6.chunk.js.map",
+    "static/js/2.093c4b60.chunk.js": "/alumni-portal-react/static/js/2.093c4b60.chunk.js",
+    "static/js/2.093c4b60.chunk.js.map": "/alumni-portal-react/static/js/2.093c4b60.chunk.js.map",
     "static/js/3.0e6b254a.chunk.js": "/alumni-portal-react/static/js/3.0e6b254a.chunk.js",
     "static/js/3.0e6b254a.chunk.js.map": "/alumni-portal-react/static/js/3.0e6b254a.chunk.js.map",
     "index.html": "/alumni-portal-react/index.html",
     "static/css/2.a44c59e0.chunk.css.map": "/alumni-portal-react/static/css/2.a44c59e0.chunk.css.map",
-    "static/css/main.fc22ce90.chunk.css.map": "/alumni-portal-react/static/css/main.fc22ce90.chunk.css.map",
-    "static/js/2.5704ecd6.chunk.js.LICENSE.txt": "/alumni-portal-react/static/js/2.5704ecd6.chunk.js.LICENSE.txt",
+    "static/css/main.7907298b.chunk.css.map": "/alumni-portal-react/static/css/main.7907298b.chunk.css.map",
+    "static/js/2.093c4b60.chunk.js.LICENSE.txt": "/alumni-portal-react/static/js/2.093c4b60.chunk.js.LICENSE.txt",
     "static/media/1.4e819dc7.jpg": "/alumni-portal-react/static/media/1.4e819dc7.jpg",
     "static/media/1.8087e598.jpg": "/alumni-portal-react/static/media/1.8087e598.jpg",
     "static/media/2.dbdf21d9.jpg": "/alumni-portal-react/static/media/2.dbdf21d9.jpg",
@@ -44,8 +44,8 @@
   "entrypoints": [
     "static/js/runtime-main.79f8e66a.js",
     "static/css/2.a44c59e0.chunk.css",
-    "static/js/2.5704ecd6.chunk.js",
-    "static/css/main.fc22ce90.chunk.css",
-    "static/js/main.aaa9aa28.chunk.js"
+    "static/js/2.093c4b60.chunk.js",
+    "static/css/main.7907298b.chunk.css",
+    "static/js/main.71666313.chunk.js"
   ]
 }
