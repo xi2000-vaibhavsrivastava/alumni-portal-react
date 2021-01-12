@@ -4,7 +4,7 @@ import 'owl.carousel/dist/assets/owl.theme.default.css';
 import { glimpsesImage, latestNews } from "../../data/data";
 const Network = () => {
   return (
-    <section className="py-5">
+    <section className="py-5"  id="network">
       <div className="container">
         <div className="row">
           <div className="col-md-8">
@@ -43,8 +43,11 @@ const Network = () => {
                   latestNews.map((list, key) => {
                     return (
                       <div className="item">
-                        <h3 className="latest-news-heading">{list.name}</h3>
-                        <p>{list.description}</p>
+                        <a href={list.link} target="_blank">
+                          <h3 className="latest-news-heading">{list.name}</h3>
+                          <div><img  className="img-fluid rounded-top mb-2" src={list.image.default} /></div>
+                          <p className="">{list.description}</p>
+                        </a>
                       </div>
                     )
                   })
