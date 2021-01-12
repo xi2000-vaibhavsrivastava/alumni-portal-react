@@ -45,7 +45,7 @@ const Network = () => {
                       <div className="item">
                         <a href={list.link} target="_blank">
                           <h3 className="latest-news-heading">{list.name}</h3>
-                          <div><img  className="img-fluid rounded-top mb-2" src={list.image.default} /></div>
+                          <div className="events-image"><img  className="img-fluid rounded-top mb-2" src={list.image.default} /></div>
                           <p className="">{list.description}</p>
                         </a>
                       </div>

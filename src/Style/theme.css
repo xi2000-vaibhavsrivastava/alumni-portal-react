@@ -562,9 +562,14 @@ mark,
   height: calc(100vh - 20vw);
 }
 
+.events-image {
+  height: 150px;
+}
+
 #network a,
 #events a {
   text-decoration: none;
+  color: #000;
 }
 
 .img-thumbnail {
