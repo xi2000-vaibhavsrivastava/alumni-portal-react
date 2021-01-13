@@ -17,7 +17,7 @@ const Subfooter = () => {
             <div className="col-lg-8">
               <div className="row">
                 <div className="col-6 col-md-4 pl-lg-4 mb-4 mb-lg-0">
-                  <h5 className="text-white mb-3">Menu Heading</h5>
+                  <h5 className="text-white mb-3 white-space-nowrap">Join our Community</h5>
                   <ul className="list-unstyled mb-0">
                     <li className="mb-2"><a className="text-700 hover-color-white" target="_blank" href="https://xebia.com/blog/"><span className="fas fa-caret-right mr-2" />Xebia Blog</a></li>
                     <li className="mb-2"><a className="text-700 hover-color-white" target="_blank" href="https://open.spotify.com/show/4Wm1KtUlklJOCyieB7f2YP"><span className="fas fa-caret-right mr-2" />Agile-Podcast</a></li>

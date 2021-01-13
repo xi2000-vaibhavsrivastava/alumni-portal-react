@@ -10,6 +10,7 @@ import Events from './Events';
 import Top from './Top';
 import Subfooter from '../Footer/Subfooter';
 import Footer from '../Footer/Footer';
+import LatestEvents from './LatestEvents';
 
 const Home = () => {
     return (
@@ -17,9 +18,10 @@ const Home = () => {
             <Header />
             <Top />
             <AboutUs />
+            <Alumni />
+            <LatestEvents />
             <Network />
             {/* <Alumnislider /> */}
-            <Alumni />
             <Events />
             <Joinus />
             <Subfooter />
