@@ -21,8 +21,8 @@ const Network = () => {
                   return (
                     <div className="item px-2">
                       <div className="car mb-4 px-4 px-md-0">
-                        <div className="cards" style={{ borderTop: 'none!important', boxShadow: 'none' }}>
-                          <img className="card-img img-fluid" src={list.image.default} alt="Card image" />
+                        <div className="cards" style={{ borderTop: 'none!important', boxShadow: 'none', backgroundImage: `url(${list.image.default})` }}>
+                          {/* <img className="card-img img-fluid" src={list.image.default} alt="Card image" /> */}
                         </div>
                       </div>
                     </div>

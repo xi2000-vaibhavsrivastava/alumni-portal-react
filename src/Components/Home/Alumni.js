@@ -1,7 +1,7 @@
 import { alumiList } from "../../data/data";
 const Alumni = () => {
     return(
-        <section className="py-4 pt-lg-5 pb-6" id="alumni">
+        <section className="py-4 pt-lg-5" id="alumni">
         <div className="container">
           <div className="row">
             <div className="col text-center">
