@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/alumni-portal-react/static/css/main.5a57dec5.chunk.css",
-    "main.js": "/alumni-portal-react/static/js/main.b893734f.chunk.js",
-    "main.js.map": "/alumni-portal-react/static/js/main.b893734f.chunk.js.map",
+    "main.css": "/alumni-portal-react/static/css/main.5f7dc608.chunk.css",
+    "main.js": "/alumni-portal-react/static/js/main.3e2239f6.chunk.js",
+    "main.js.map": "/alumni-portal-react/static/js/main.3e2239f6.chunk.js.map",
     "runtime-main.js": "/alumni-portal-react/static/js/runtime-main.79f8e66a.js",
     "runtime-main.js.map": "/alumni-portal-react/static/js/runtime-main.79f8e66a.js.map",
     "static/css/2.a44c59e0.chunk.css": "/alumni-portal-react/static/css/2.a44c59e0.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.0e6b254a.chunk.js.map": "/alumni-portal-react/static/js/3.0e6b254a.chunk.js.map",
     "index.html": "/alumni-portal-react/index.html",
     "static/css/2.a44c59e0.chunk.css.map": "/alumni-portal-react/static/css/2.a44c59e0.chunk.css.map",
-    "static/css/main.5a57dec5.chunk.css.map": "/alumni-portal-react/static/css/main.5a57dec5.chunk.css.map",
+    "static/css/main.5f7dc608.chunk.css.map": "/alumni-portal-react/static/css/main.5f7dc608.chunk.css.map",
     "static/js/2.fb6c745c.chunk.js.LICENSE.txt": "/alumni-portal-react/static/js/2.fb6c745c.chunk.js.LICENSE.txt",
     "static/media/1.4e819dc7.jpg": "/alumni-portal-react/static/media/1.4e819dc7.jpg",
     "static/media/1.8087e598.jpg": "/alumni-portal-react/static/media/1.8087e598.jpg",
@@ -23,7 +23,7 @@
     "static/media/ananya_gangwani.jpg": "/alumni-portal-react/static/media/ananya_gangwani.60fda480.jpg",
     "static/media/christmas.png": "/alumni-portal-react/static/media/christmas.e1fd3c78.png",
     "static/media/deepak_banal.png": "/alumni-portal-react/static/media/deepak_banal.c9c6e9e6.png",
-    "static/media/theme.css": "/alumni-portal-react/static/media/header.e4e7a973.jpg",
+    "static/media/theme.css": "/alumni-portal-react/static/media/x-bg.2a74350e.svg",
     "static/media/img1.3bae1a65.jpg": "/alumni-portal-react/static/media/img1.3bae1a65.jpg",
     "static/media/leadership-connect.jpg": "/alumni-portal-react/static/media/leadership-connect.dc5fc25f.jpg",
     "static/media/logo.6ce24c58.svg": "/alumni-portal-react/static/media/logo.6ce24c58.svg",
@@ -36,8 +36,8 @@
     "static/media/xebia4.webp": "/alumni-portal-react/static/media/xebia4.831a6946.webp",
     "static/media/xebia5.webp": "/alumni-portal-react/static/media/xebia5.6d6d306a.webp",
     "static/media/xebia6.jpg": "/alumni-portal-react/static/media/xebia6.b624fef0.jpg",
-    "static/media/xebia7.jpg": "/alumni-portal-react/static/media/xebia7.b10546dd.jpg",
-    "static/media/xebia8.jpg": "/alumni-portal-react/static/media/xebia8.ff26e8f9.jpg",
+    "static/media/xebia7.jpg": "/alumni-portal-react/static/media/xebia7.5c9104ad.jpg",
+    "static/media/xebia8.jpg": "/alumni-portal-react/static/media/xebia8.1f46d783.jpg",
     "static/media/xebia9.webp": "/alumni-portal-react/static/media/xebia9.38625f84.webp",
     "static/media/xebia_logo.6dff61c9.png": "/alumni-portal-react/static/media/xebia_logo.6dff61c9.png"
   },
@@ -45,7 +45,7 @@
     "static/js/runtime-main.79f8e66a.js",
     "static/css/2.a44c59e0.chunk.css",
     "static/js/2.fb6c745c.chunk.js",
-    "static/css/main.5a57dec5.chunk.css",
-    "static/js/main.b893734f.chunk.js"
+    "static/css/main.5f7dc608.chunk.css",
+    "static/js/main.3e2239f6.chunk.js"
   ]
 }
