@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/alumni-portal-react/static/css/main.b50e3264.chunk.css",
-    "main.js": "/alumni-portal-react/static/js/main.80da3c73.chunk.js",
-    "main.js.map": "/alumni-portal-react/static/js/main.80da3c73.chunk.js.map",
-    "runtime-main.js": "/alumni-portal-react/static/js/runtime-main.42787fff.js",
-    "runtime-main.js.map": "/alumni-portal-react/static/js/runtime-main.42787fff.js.map",
+    "main.js": "/alumni-portal-react/static/js/main.efc330c3.chunk.js",
+    "main.js.map": "/alumni-portal-react/static/js/main.efc330c3.chunk.js.map",
+    "runtime-main.js": "/alumni-portal-react/static/js/runtime-main.7a419703.js",
+    "runtime-main.js.map": "/alumni-portal-react/static/js/runtime-main.7a419703.js.map",
     "static/css/2.a44c59e0.chunk.css": "/alumni-portal-react/static/css/2.a44c59e0.chunk.css",
     "static/js/2.fb6c745c.chunk.js": "/alumni-portal-react/static/js/2.fb6c745c.chunk.js",
     "static/js/2.fb6c745c.chunk.js.map": "/alumni-portal-react/static/js/2.fb6c745c.chunk.js.map",
-    "static/js/3.419fc2ba.chunk.js": "/alumni-portal-react/static/js/3.419fc2ba.chunk.js",
-    "static/js/3.419fc2ba.chunk.js.map": "/alumni-portal-react/static/js/3.419fc2ba.chunk.js.map",
+    "static/js/3.6b1b1ac4.chunk.js": "/alumni-portal-react/static/js/3.6b1b1ac4.chunk.js",
+    "static/js/3.6b1b1ac4.chunk.js.map": "/alumni-portal-react/static/js/3.6b1b1ac4.chunk.js.map",
     "index.html": "/alumni-portal-react/index.html",
     "static/css/2.a44c59e0.chunk.css.map": "/alumni-portal-react/static/css/2.a44c59e0.chunk.css.map",
     "static/css/main.b50e3264.chunk.css.map": "/alumni-portal-react/static/css/main.b50e3264.chunk.css.map",
@@ -37,16 +37,14 @@
     "static/media/xebia3.webp": "/alumni-portal-react/static/media/xebia3.0d8c7afe.webp",
     "static/media/xebia4.webp": "/alumni-portal-react/static/media/xebia4.831a6946.webp",
     "static/media/xebia5.webp": "/alumni-portal-react/static/media/xebia5.6d6d306a.webp",
-    "static/media/xebia7.jpg": "/alumni-portal-react/static/media/xebia7.5c9104ad.jpg",
-    "static/media/xebia8.jpg": "/alumni-portal-react/static/media/xebia8.1f46d783.jpg",
     "static/media/xebia9.webp": "/alumni-portal-react/static/media/xebia9.38625f84.webp",
     "static/media/xebia_logo.6dff61c9.png": "/alumni-portal-react/static/media/xebia_logo.6dff61c9.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.42787fff.js",
+    "static/js/runtime-main.7a419703.js",
     "static/css/2.a44c59e0.chunk.css",
     "static/js/2.fb6c745c.chunk.js",
     "static/css/main.b50e3264.chunk.css",
-    "static/js/main.80da3c73.chunk.js"
+    "static/js/main.efc330c3.chunk.js"
   ]
 }
