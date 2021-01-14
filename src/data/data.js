@@ -75,10 +75,10 @@ export const glimpsesImage = [
         image: require('../images/gallery/xebia5.webp'),
         name: 'xebia1',
     },
-    {
-        image: require('../images/gallery/xebia6.jpg'),
-        name: 'xebia1',
-    },
+    // {
+    //     image: require('../images/gallery/xebia6.jpg'),
+    //     name: 'xebia1',
+    // },
     {
         image: require('../images/gallery/xebia7.jpg'),
         name: 'xebia1',
