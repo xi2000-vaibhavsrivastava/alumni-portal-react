@@ -96,6 +96,18 @@ export const glimpsesImage = [
 
 export const latestNews = [
     {
+        name: "She Talks Tech Mentorship Program",
+        image: require('../images/events/she-talks-mentorship.png'),        
+        description: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+        link: "https://www.youtube.com/watch?v=4ZuktUAWNt4&feature=youtu.be",
+    },
+    {
+        name: "Carbon Foot Print - Save Earth",
+        image: require('../images/events/carbon-footprint.png'),        
+        description: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+        link: "https://www.youtube.com/watch?v=7xkVFCT4tis",
+    },
+    {
         name: "She Talks Tech",
         image: require('../images/events/she-talks-tech.png'),        
         description: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
