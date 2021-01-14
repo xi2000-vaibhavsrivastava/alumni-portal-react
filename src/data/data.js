@@ -79,14 +79,14 @@ export const glimpsesImage = [
     //     image: require('../images/gallery/xebia6.jpg'),
     //     name: 'xebia1',
     // },
-    {
-        image: require('../images/gallery/xebia7.jpg'),
-        name: 'xebia1',
-    },
-    {
-        image: require('../images/gallery/xebia8.jpg'),
-        name: 'xebia1',
-    },
+    // {
+    //     image: require('../images/gallery/xebia7.jpg'),
+    //     name: 'xebia1',
+    // },
+    // {
+    //     image: require('../images/gallery/xebia8.jpg'),
+    //     name: 'xebia1',
+    // },
     {
         image: require('../images/gallery/xebia9.webp'),
         name: 'xebia1',
@@ -108,12 +108,6 @@ export const latestNews = [
         link: "https://www.youtube.com/watch?v=7xkVFCT4tis",
     },
     {
-        name: "She Talks Tech",
-        image: require('../images/events/she-talks-tech.png'),        
-        description: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
-        link: "https://www.youtube.com/watch?v=a74RqR_PK-o",
-    },
-    {
         name: "Christmas at Xebia",
         image: require('../images/events/christmas.png'),
         description: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
@@ -124,5 +118,11 @@ export const latestNews = [
         image: require('../images/events/lookback_november.png'),
         description: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
         link: "https://www.youtube.com/watch?v=lUREng1wKCs"
+    },
+    {
+        name: "She Talks Tech",
+        image: require('../images/events/she-talks-tech.png'),        
+        description: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+        link: "https://www.youtube.com/watch?v=a74RqR_PK-o",
     }
 ]
