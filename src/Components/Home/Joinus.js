@@ -2,7 +2,7 @@ import HubspotForm from 'react-hubspot-form'
 const Joinus = () => {
     return(
         <section className="py-4 pt-lg-5 pb-6 bg-light" id="join-us">
-        <h2 className="mb-5 font-weight-bold text-transform-none text-center">Once a Xebian, Always a Xebia</h2>
+        <h2 className="mb-5 font-weight-bold text-transform-none text-center">Once a Xebian, Always a Xebian</h2>
         <div className="container">
           <div className="row">
             <div className="col-md-6 px-4">

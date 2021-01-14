@@ -2,6 +2,11 @@ import about_us_img  from '../../images/img1.jpg'
 const AboutUs = () => {
     return (
         <section className="py-4 py-lg-6" id="about-us">
+        <div className="container mb-5">
+          <div className="col">
+          <marquee>Welcome to Xebia's community of Alumni , Create lasting and lifelong relationships by joining our Alumni community.</marquee>
+          </div>
+        </div>
         <div className="container">
           <div className="row align-items-center">
             <div className="col-md-6">

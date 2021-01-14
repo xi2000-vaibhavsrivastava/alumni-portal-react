@@ -9,7 +9,7 @@ const Top = () => {
             <div className="header-text">
               <div className="overflow-hidden">
                 <h1 className="display-3 font-weight-regular text-transform-none text-white fs-5 fs-md-8" data-zanim-xs="{&quot;duration&quot;:2,&quot;delay&quot;:0}">Welcome to Xebia's</h1>
-                <h1 className="mt-3 display-3 font-weight-medium text-transform-none text-white fs-5 fs-md-7" data-zanim-xs="{&quot;duration&quot;:2,&quot;delay&quot;:0.1}">Alumni Network</h1>
+                <h1 className="mt-3 display-3 font-weight-medium text-transform-none text-white fs-5 fs-md-7" data-zanim-xs="{&quot;duration&quot;:2,&quot;delay&quot;:0.1}">Alumni Community</h1>
               </div>
             </div>
           </div>
