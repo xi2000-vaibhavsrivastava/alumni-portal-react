@@ -21,9 +21,15 @@ const LatestEvents = () => {
                   latestNews.map((list, key) => {
                     return (
                       <div className="item">
+                        <div className="trending-items">
+                          <div className="trending-videos">
                             <a className="owl-video" href={list.link}></a>
-                            <h3 className="latest-news-heading text-center mt-2">{list.name}</h3>
-                            {/* <p className="">{list.description}</p> */}
+                          </div>
+                          <div className="trending-description">
+                              <h3 className="latest-news-heading text-center mt-2">{list.name}</h3>
+                              <p className="trending-description-text">{list.description}</p>
+                          </div>
+                        </div>
                       </div>
                     )
                   })

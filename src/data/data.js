@@ -98,31 +98,31 @@ export const latestNews = [
     {
         name: "She Talks Tech Mentorship Program",
         image: require('../images/events/she-talks-mentorship.png'),        
-        description: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+        description: "At Xebia, we are committed to empowering women through exclusive mentorship sessions for women. We provide an open and flexible working culture and wish that more and more women join us and become a part of Xebia’s growth story.",
         link: "https://www.youtube.com/watch?v=4ZuktUAWNt4&feature=youtu.be",
     },
     {
-        name: "Carbon Foot Print - Save Earth",
+        name: "We make difference",
         image: require('../images/events/carbon-footprint.png'),        
-        description: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+        description: "Carbon Foot Print:Save Earth: Xebia’s initiative “We Make Difference” was aimed at fulfilling our social responsibility. Under this initiative, we strive towards a more equitable society. Also make sure to make the environment more sustainable.",
         link: "https://www.youtube.com/watch?v=7xkVFCT4tis",
     },
     {
-        name: "Christmas at Xebia",
+        name: "We make difference",
         image: require('../images/events/christmas.png'),
-        description: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+        description: "Christmas at Xebia:Xebia’s initiative “We Make Difference” was aimed at fulfilling our social responsibility. Under this initiative, we strive towards a more equitable society.",
         link: "https://www.youtube.com/watch?v=TLMgnfMCM8I",
     },
     {
         name: "Look Back November",
         image: require('../images/events/lookback_november.png'),
-        description: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+        description: " At Xebia, we celebrate the joy of working together. These are unseen and difficult times when we all are working away from our work families. Celebrating important events together virtually is thus a way to re-emphasize that we are all together in this and we are there for each other",
         link: "https://www.youtube.com/watch?v=lUREng1wKCs"
     },
-    {
-        name: "She Talks Tech",
-        image: require('../images/events/she-talks-tech.png'),        
-        description: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
-        link: "https://www.youtube.com/watch?v=a74RqR_PK-o",
-    }
+    // {
+    //     name: "She Talks Tech",
+    //     image: require('../images/events/she-talks-tech.png'),        
+    //     description: "#SheTalksTech campaign is being initiated to inspire, celebrate, and connect more and more women in technology. We are working towards making Xebia the go-to place for women by being supportive and offering inclusive growth opportunities.",
+    //     link: "https://www.youtube.com/watch?v=a74RqR_PK-o",
+    // }
 ]

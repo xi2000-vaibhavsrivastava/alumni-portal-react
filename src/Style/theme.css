@@ -10,7 +10,7 @@
 body {
   background-image: url('../images/x-bg.svg');
   background-size: 3000px;
-  background-position: top center
+  background-position: top center;
 }
 
 .shadow-sm.rounded:hover {
@@ -56,6 +56,27 @@ body {
   background-color: #fff;
   border: 1px solid #ccc;
   border-radius: 4px;
+}
+
+
+.trending-items {
+  display: flex;
+  height: 100%;
+  justify-content: space-between;
+}
+
+.trending-videos {
+  flex-basis: 70%;
+}
+
+.trending-description {
+  flex-basis: 30%;
+  padding: 20px;
+}
+
+.trending-description-text {
+  font-size: 16px;
+  font-family: 'Poppins';
 }
 
 .latest-news-heading {
@@ -611,6 +632,9 @@ mark,
     bottom: 0;
   }
 
+.header-text h1 {
+  font-family: 'Poppins';
+}  
 .blog-badge{
       font-size: 13px;
       letter-spacing: 1px;
@@ -621,10 +645,16 @@ mark,
     background-color: #ed5a80;
 }
 
+#podcastsId .owl-nav button.owl-prev {
+  left:246px
+}
+
 #blogsId .owl-nav button.owl-prev {
   left: 335px;
 }
 
+
+#podcastsId .owl-nav button.owl-next,
 #blogsId .owl-nav button.owl-next {
   right: 8px;
 }
@@ -646,6 +676,85 @@ mark,
     -webkit-backdrop-filter: blur(.8rem);
     backdrop-filter: blur(.8rem);
     top: 35px;
+}
+
+
+#podcastsId .owl-nav button.owl-prev,
+#podcastsId .owl-nav button.owl-next {
+    display: flex;
+    color: #fff !important;
+    justify-content: center;
+    align-items: center;
+    font-size: 24px !important;
+    height: 18px;
+    width: 18px;
+    border-radius: 4px;
+    padding: 18px!important;
+    position: absolute;
+    background-color: rgba(92,92,92,.5) !important;
+    -webkit-backdrop-filter: blur(.8rem);
+    backdrop-filter: blur(.8rem);
+    top: 35px;
+}
+
+
+.podcast-header{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+
+
+.podcast-header h4{
+  font-size: 19px;
+  color: white;
+}
+
+
+.blog-header,
+.podcast-header {
+  width: 100%;
+  height: 320px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  border-radius: 4px;
+  position: relative;
+}
+
+
+
+span.blog-badge{
+  font-size: 13px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+
+
+.blog-content {
+  color: white;
+  position: absolute;
+  bottom: 0;
+}
+
+.podcast-content {
+  color: white;
+  position: absolute;
+  bottom: 0;
+}
+
+.bg-purple-900 {
+  background-color: #6c1d5f;
+  height: calc(100% - 10px);
+}
+
+.gem-img-holder {
+  height: 104px;
+  width: 204px;
+  border-radius: 10px;
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .img-thumbnail {
