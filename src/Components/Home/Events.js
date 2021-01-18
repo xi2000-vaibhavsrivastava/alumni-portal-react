@@ -1,19 +1,23 @@
 import image1 from '../../images/events/1.jpg';
 import { eventList } from "../../data/data";
+import Blogs from './Blogs';
 const Events = () => {
     return(
         <section className="py-4 pt-lg-5 pb-6 bg-light" id="events">
         <div className="container">
           <div className="row">
-            <div className="col text-center">
+            {/* <div className="col text-center">
               <h2 className="mb-5 font-weight-bold text-transform-none">Upcoming Events At Xebia</h2>
-            </div>
+            </div> */}
           </div>
           <div className="row">
+            <div className="col-md-5">
+                <Blogs />
+            </div>
           {
               eventList.map((list,key) => {
                 return(
-                  <div className="col-md-6 col-lg-3 h-100 mb-4">
+                  <div className="col-md-4 col-lg-3 h-100 mb-4">
                   <img className="img-fluid rounded-top" src={list.image.default} alt="" />
                   <a href={list.link} target="_blank">
                   <div className="p-3 rounded-bottom text-center">

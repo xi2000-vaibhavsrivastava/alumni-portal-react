@@ -12,21 +12,21 @@ export const alumiList = [
         company: "ABC",
         name: "Deepak Bansal",
         linkedin: "https://www.linkedin.com/in/deepubansal/",
-        image: require('../images/alumni/deepak_banal.png'),
+        image: require('../images/alumni/deepak_banal.jpg'),
         designation: "Software Engineer, Google", 
     },
     {
         company: "ABC",
         name: "Aditya Kalia",
         linkedin: "https://www.linkedin.com/in/adityakalia/",
-        image: require('../images/alumni/aditya_kalia.jpeg'),
+        image: require('../images/alumni/aditya_kalia.jpg'),
         designation: "Founder, Stealth Startup",
     },
     {
         company: "ABC",
         name: "Tanmay Mehra",
         linkedin: "https://www.linkedin.com/in/tanmaymehra/",
-        image: require('../images/alumni/tanmay_mehra.png'),
+        image: require('../images/alumni/tanmay_mehra.jpg'),
         designation: "Staff Software Engineer, Walmart Labs",
     },
     {
@@ -34,7 +34,7 @@ export const alumiList = [
         company: "ABC",
         name: "Prayag Mittal",
         linkedin: " https://www.linkedin.com/in/prayag-mittal-9b51b22a/",
-        image: require('../images/alumni/prayag_mittal.png'),
+        image: require('../images/alumni/prayag_mittal.jpg'),
         designation: "Senior Software Engineer, Singtel",
     }
 ];

@@ -14,7 +14,7 @@ const Alumni = () => {
                 return(
                     <div className="col-md-6 col-lg-4 h-100 mb-4">
                     <div className="alumni-image">
-                      <img className="img-fluid rounded-top" src={list.image.default} alt="" />
+                      <img className="img-fluid" src={list.image.default} alt="" />
                     </div>
                     <div className="p-3 rounded-bottom text-center">
                       <h5 className="mb-1 text-base text-transform-none font-weight-medium">{list.name}</h5>

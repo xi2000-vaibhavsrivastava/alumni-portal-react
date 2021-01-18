@@ -17,10 +17,10 @@ const Header = () => {
                 </li> */}
                 {/* <li className="nav-item"><a className="nav-link pl-4" href="#">Menu Item 1</a></li>
                 <li className="nav-item"><a className="nav-link pl-3" href="#">Menu Item 2</a></li> */}
-                <li className="list-inline-item mr-0 nav-item"><a className="text-900 hover-color-white pr-2" target="_blank" href="https://www.linkedin.com/company/16903"><span className="fab fa-linkedin-in" /></a></li>
-                <li className="list-inline-item mr-0"><a className="text-900 hover-color-white px-2" target="_blank" href="https://twitter.com/XebiaIndia"><span className="fab fa-twitter" /></a></li>
-                <li className="list-inline-item mr-0"><a className="text-900 hover-color-white px-2" target="_blank" href="https://www.facebook.com/XebiaGlobal/"><span className="fab fa-facebook-f" /></a></li>
-                <li className="list-inline-item mr-0"><a className="text-900 hover-color-white px-2" target="_blank" href="https://www.instagram.com/life_at_xebia/"><span className="fab fa-instagram" /></a></li>
+                <li className="list-inline-item mr-0 nav-item"><a className="text-social-icons hover-color-white pr-2" target="_blank" href="https://www.linkedin.com/company/16903"><span className="fab fa-linkedin-in" /></a></li>
+                <li className="list-inline-item mr-0"><a className="text-social-icons hover-color-white px-2" target="_blank" href="https://twitter.com/XebiaIndia"><span className="fab fa-twitter" /></a></li>
+                <li className="list-inline-item mr-0"><a className="text-social-icons hover-color-white px-2" target="_blank" href="https://www.facebook.com/XebiaGlobal/"><span className="fab fa-facebook-f" /></a></li>
+                <li className="list-inline-item mr-0"><a className="text-social-icons hover-color-white px-2" target="_blank" href="https://www.instagram.com/life_at_xebia/"><span className="fab fa-instagram" /></a></li>
                 <li className="nav-item py-3 py-md-0 d-flex flex-column justify-content-center">
                   <a className="ml-0 ml-md-3 btn btn-sm btn-outline-light hvr-sweep-top" href="#join-us">Join Us</a>
                 </li>

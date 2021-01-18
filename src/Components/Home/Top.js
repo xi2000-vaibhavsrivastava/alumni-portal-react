@@ -4,8 +4,8 @@ const Top = () => {
         <section className="py-0 text-center" id="top">
         <div className="bg-holder overlay overlay-3 overlay-z-index-1" style={{backgroundImage: `url(${image_header})`}} ></div>
         <div className="header-overlay"></div>
-        <div className="container">
-          <div className="d-flex flex-center vh-100">
+        <div className="container-header">
+          <div className="d-flex flex-header vh-100">
             <div className="header-text">
               <div className="overflow-hidden">
                 <h1 className="display-3 font-weight-regular text-transform-none text-white fs-5 fs-md-8" data-zanim-xs="{&quot;duration&quot;:2,&quot;delay&quot;:0}">Welcome to Xebia's</h1>
