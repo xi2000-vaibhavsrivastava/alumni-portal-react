@@ -21,7 +21,7 @@ const Home = () => {
             <Alumni />
             <LatestEvents />
             <Network />
-            {/* <Alumnislider /> */}
+            <Alumnislider />
             <Events />
             <Joinus />
             <Subfooter />

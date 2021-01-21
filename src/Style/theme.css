@@ -18481,3 +18481,11 @@ a.hover-color-white:hover {
 }
 
 /*# sourceMappingURL=theme.css.map */
+
+
+.sliding-text {
+    font-family: Brush Script MT, Brush Script Std, cursive;
+    font-size: 35px;
+    color: #000;
+    text-shadow: 1px 1px 3px #5c0d58;
+}
