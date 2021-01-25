@@ -18490,8 +18490,9 @@ a.hover-color-white:hover {
 
 .sliding-text {
     /* font-family: Brush Script MT, Brush Script Std, cursive; */
-    font-family: Snell Roundhand, cursive;
+    font-family: MONOSPACE;
     font-size: 35px;
+    font-weight: bolder;
     white-space: nowrap;
     width: 200%;
     /* color: #000;
