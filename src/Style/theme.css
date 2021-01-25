@@ -13,6 +13,11 @@ body {
   background-position: top center;
 }
 
+*:focus {
+  outline: none;
+}
+
+
 .shadow-sm.rounded:hover {
   border: 2px solid #006cb0;
 }
@@ -18484,8 +18489,14 @@ a.hover-color-white:hover {
 
 
 .sliding-text {
-    font-family: Brush Script MT, Brush Script Std, cursive;
+    /* font-family: Brush Script MT, Brush Script Std, cursive; */
+    font-family: Snell Roundhand, cursive;
     font-size: 35px;
-    color: #000;
-    text-shadow: 1px 1px 3px #5c0d58;
+    white-space: nowrap;
+    width: 200%;
+    /* color: #000;
+    text-shadow: 1px 1px 3px #5c0d58; */
+    background: -webkit-linear-gradient(#eee, #3b0335);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
 }
