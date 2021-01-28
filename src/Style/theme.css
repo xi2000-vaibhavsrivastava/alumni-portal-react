@@ -18517,7 +18517,7 @@ a.hover-color-white:hover {
     width: 200%;
     /* color: #000;
     text-shadow: 1px 1px 3px #5c0d58; */
-    background: -webkit-linear-gradient(#eee, #3b0335);
+    background: -webkit-linear-gradient(#474646, #3b0335);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
