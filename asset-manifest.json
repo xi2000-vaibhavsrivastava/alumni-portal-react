@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/alumni-portal-react/static/css/main.e623f6ff.chunk.css",
+    "main.css": "/alumni-portal-react/static/css/main.2b96ad21.chunk.css",
     "main.js": "/alumni-portal-react/static/js/main.b706b200.chunk.js",
     "main.js.map": "/alumni-portal-react/static/js/main.b706b200.chunk.js.map",
     "runtime-main.js": "/alumni-portal-react/static/js/runtime-main.cbdee89e.js",
@@ -12,7 +12,7 @@
     "static/js/3.069e6dae.chunk.js.map": "/alumni-portal-react/static/js/3.069e6dae.chunk.js.map",
     "index.html": "/alumni-portal-react/index.html",
     "static/css/2.a44c59e0.chunk.css.map": "/alumni-portal-react/static/css/2.a44c59e0.chunk.css.map",
-    "static/css/main.e623f6ff.chunk.css.map": "/alumni-portal-react/static/css/main.e623f6ff.chunk.css.map",
+    "static/css/main.2b96ad21.chunk.css.map": "/alumni-portal-react/static/css/main.2b96ad21.chunk.css.map",
     "static/js/2.f4a28bc3.chunk.js.LICENSE.txt": "/alumni-portal-react/static/js/2.f4a28bc3.chunk.js.LICENSE.txt",
     "static/media/1.4e819dc7.jpg": "/alumni-portal-react/static/media/1.4e819dc7.jpg",
     "static/media/1.8087e598.jpg": "/alumni-portal-react/static/media/1.8087e598.jpg",
@@ -43,7 +43,7 @@
     "static/js/runtime-main.cbdee89e.js",
     "static/css/2.a44c59e0.chunk.css",
     "static/js/2.f4a28bc3.chunk.js",
-    "static/css/main.e623f6ff.chunk.css",
+    "static/css/main.2b96ad21.chunk.css",
     "static/js/main.b706b200.chunk.js"
   ]
 }
