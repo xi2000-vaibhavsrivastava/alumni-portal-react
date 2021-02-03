@@ -11,6 +11,7 @@ import Top from './Top';
 import Subfooter from '../Footer/Subfooter';
 import Footer from '../Footer/Footer';
 import LatestEvents from './LatestEvents';
+import CoreCSr from './CoreCSr';
 
 const Home = () => {
     return (
@@ -23,6 +24,7 @@ const Home = () => {
             <Network />
             {/* <Alumnislider /> */}
             <Events />
+            <CoreCSr />
             <Joinus />
             <Subfooter />
             <Footer />
