@@ -4,9 +4,9 @@ const AboutUs = () => {
         <section className="py-4 py-lg-6" id="about-us">
         <div className="container mb-5">
           <div className="col">
-            <marquee>
-              <p className="sliding-text">Welcome to Xebia's community of Alumni , Create lasting and lifelong relationships by joining our Alumni community.</p>
-            </marquee>
+
+              <p className="sliding-text">Welcome to Xebia's Alumni Community,
+              Stay in touch with your Xebia Family. Let's create lifelong relationships!</p>
           </div>
         </div>
         <div className="container">
