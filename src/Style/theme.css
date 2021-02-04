@@ -18681,7 +18681,7 @@ a.hover-color-white:hover {
     font-size: 30px;
     font-weight: bolder;
     white-space: pre-line;
-    text-align: center;
+    text-align: center !important;
     /* width: 200%; */
     /* color: #000;
     text-shadow: 1px 1px 3px #5c0d58; */
