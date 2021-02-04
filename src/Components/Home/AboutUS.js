@@ -5,8 +5,7 @@ const AboutUs = () => {
         <div className="container mb-5">
           <div className="col">
 
-              <p className="sliding-text">Welcome to Xebia's Alumni Community,
-              Stay in touch with your Xebia Family. Let's create lifelong relationships!</p>
+              <p className="sliding-text">Welcome to Xebia's Alumni Community, Stay in touch with your Xebia Family.<br></br>Let's create lifelong relationships!</p>
           </div>
         </div>
         <div className="container">
